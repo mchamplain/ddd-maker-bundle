@@ -11,8 +11,8 @@
 
 namespace Yceruto\DddMakerBundle;
 
-use MicroSymfony\Component\Config\Definition\Configurator\DefinitionConfigurator;
-use MicroSymfony\Component\HttpKernel\Bundle\AbstractBundle;
+use Symfony\Component\Config\Definition\Configurator\DefinitionConfigurator;
+use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;
 

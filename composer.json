@@ -12,12 +12,11 @@
     }
   ],
   "require": {
-    "php": ">=7.4",
+    "php": ">=8.1",
     "ext-json": "*",
-    "symfony/console": "^5.4|^6.0",
-    "symfony/framework-bundle": "^5.4|^6.0",
-    "symfony/maker-bundle": "^1.36",
-    "yceruto/micro-symfony": "^1.2"
+    "symfony/console": "^6.1",
+    "symfony/framework-bundle": "^6.1",
+    "symfony/maker-bundle": "^1.47"
   },
   "autoload": {
     "psr-4": {
